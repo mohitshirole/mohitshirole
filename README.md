@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach Email= mohitshirole03@gmail.com
-- Phone = +919657067069
+- 📱 Phone = +919657067069
 - ⚡ Fun fact: I make websites for fun  
 
 <!---
