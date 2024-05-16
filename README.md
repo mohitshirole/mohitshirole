@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitshirole&label=Profile%20views&color=0e75b6&style=flat" alt="mohitshirole" /> </p>
 
+- 📫 How to reach me **mohitshirole03@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Jmyb5nHDtSiPuOPeumZ7i-O8Y_SL9AoF/view?usp=drive_link](https://drive.google.com/file/d/1Jmyb5nHDtSiPuOPeumZ7i-O8Y_SL9AoF/view?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mohit_shirole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohit_shirole" height="30" width="40" /></a>
