@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mohitshirole03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Jmyb5nHDtSiPuOPeumZ7i-O8Y_SL9AoF/view?usp=drive_link](https://drive.google.com/file/d/1Jmyb5nHDtSiPuOPeumZ7i-O8Y_SL9AoF/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/11CVwb1_P7DrxgSqfFyqlbcdswSxAkhOs/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
