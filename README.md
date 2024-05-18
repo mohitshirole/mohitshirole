@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitshirole&label=Profile%20views&color=0e75b6&style=flat" alt="mohitshirole" /> </p>
 
+
+- 🌱I’m a third year student pursuing Bachelor's degree in Engineering (Information Technology) from University of Pune, India
+
 - 📫 How to reach me **mohitshirole03@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/11CVwb1_P7DrxgSqfFyqlbcdswSxAkhOs/view?usp=sharing
