@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitshirole&label=Profile%20views&color=0e75b6&style=flat" alt="mohitshirole" /> </p>
 
 
-- 🌱I’m a final year student pursuing Bachelor's degree in Engineering (Information Technology) from University of Pune, India
+- 🌱Dedicated Full Stack Developer with expertise in designing and developing end-to-end web and mobile applications. Skilled in a wide range of technologies, offering comprehensive IT services tailored to meet the needs of businesses. Committed to delivering high-quality solutions from concept to deployment, ensuring optimal performance, scalability, and user experience across platforms.  
 
 - 📫Reach me at **mohitshirole03@gmail.com**
 
